@@ -30,16 +30,23 @@ Linguagens, tecnologias e bancos de dados que utilizo no meu aprendizado e desen
 
 
 1. Caclculadora em C (https://github.com/jocerlandiniz26520-pixel/Calculadora-c)
-2. Sistema de cadastro Python (https://github.com/jocerlandiniz26520-pixel/sistema-cadastro-python):** Descrição curta (Ex: Sistema em Python com persistência de dados em MySQL).
+2. Sistema de cadastro Python (https://github.com/jocerlandiniz26520-pixel/sistema-cadastro-python)
+
+---
+
+### 📊 Estatísticas do GitHub
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://vercel.app" alt="Linguagens mais utilizadas" />
+  <img height="180em" src="https://vercel.app" alt="Estatísticas do Jocerlan" />
+  <img height="180em" src="https://vercel.app" alt="Linguagens do Jocerlan" />
 </div>
+
+---
+
 
 ---
 
